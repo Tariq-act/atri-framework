@@ -1,0 +1,48 @@
+.p-Home.Div1 {
+  padding-right: 0px;
+  padding-bottom: 0px;
+  margin-right: 15px;
+  margin-left: 15px;
+  height: 100%;
+  width: ;
+}
+.p-Home.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: IBM Plex Sans;
+  padding-top: 40px;
+}
+.p-Home.Div2 {
+}
+.p-Home.Div3 {
+}
+.p-Home.NavLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-right: 0px;
+  row-gap: ;
+  column-gap: 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.p-Home.book-btn {
+  display: flex;
+  align-items: stretch;
+  column-gap: 0.5rem;
+}
+.p-Home.Image1 {
+}
+.p-Home.NavEl-1 {
+}
+.p-Home.NavEl-2 {
+}
+.p-Home.NavEl-3 {
+}
+.p-Home.NavEl-4 {
+}
+.p-Home.NavEl-5 {
+}
+.p-Home.Image2 {
+}
